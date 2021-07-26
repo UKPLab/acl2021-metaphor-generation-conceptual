@@ -9,6 +9,8 @@ Use the `EMtrainer.py` script, which takes relevant arguments for embedding trai
 Note that to train embeddings, the training corpus is needed. It is not provided here due to size restrictions: please instead find (for now) at the following Google drive link:
 https://drive.google.com/file/d/1TTtzSZw0fp8G0056v4mHBCY0S0xkyg1f/view?usp=sharing
 
+Place this file in the `./data/` directory.
+
 ```
 python EMTrainer.py -i: input path (the corpus provided at the link above)
                     -o: output path
@@ -27,6 +29,8 @@ python EMTrainer.py -i ../data/frame_corpus.txt -o ../models/w2v_50/ -m w2v -d 5
 ## Generating mappings
 The mapping file between frames is not provided due to size, please instead find (for now) at the following Google Drive link:
 https://drive.google.com/file/d/1fL2_yAlre2tddmSju2cKEXfC_rvuTZOO/view?usp=sharing
+
+Place this file in the `./mappings/` directory.
 
 Or, generate them from a model! Run the `Mapping.py` script, providing options for the model used as needed:
 
