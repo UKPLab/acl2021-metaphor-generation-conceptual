@@ -1,0 +1,150 @@
+brown	3	Guerrillas were running toward him .	Guerrillas were racing toward him .	2	Self_motion	Type
+brown	3	Dancing was no longer done in the streets .	Dancing was no longer known in the streets .	4	Intentionally_act	Awareness
+brown	3	She screamed at him .	She snapped at him .	1	Make_noise	Breaking_off
+brown	3	I knew it will be all right .	I guess it will be all right .	1	Awareness	Coming_to_believe
+brown	3	A fool could know what was going on .	A fool could see what was going on .	3	Awareness	Perception_experience
+brown	3	already the thermometer seemed close to ninety .	already the thermometer stood close to ninety .	3	Give_impression	Being_located
+brown	3	And then , unexpectedly , Stanley said his announcement .	And then , unexpectedly , Stanley made his announcement .	6	Statement	Manufacturing
+brown	3	Automatically , Finnegan started looking over today 's lesson .	Automatically , Finnegan started going over today 's lesson .	4	Scrutiny	Attempt
+brown	3	Digby calmed down , but said one request .	Digby calmed down , but made one request .	5	Statement	Manufacturing
+brown	3	From somewhere in the hut called Coughlin 's voice .	From somewhere in the hut came Coughlin 's voice .	5	Request	Arriving
+brown	3	Haney 's eyebrows widened up .	Haney 's eyebrows flew up .	3	Cause_expansion	Self_motion
+brown	3	He took out one of them and cocked it .	He pulled out one of them and cocked it .	1	Removing	Manipulation
+brown	3	His expenses seemed another four or five thousand .	His expenses ran another four or five thousand .	2	Give_impression	Self_motion
+brown	3	His front teeth were removed .	His front teeth were missing .	4	Removing	Hit_or_miss
+brown	3	His voice became high and trembling .	His voice grew high and trembling .	2	Becoming	Change_position_on_a_scale
+brown	3	I know fooling Hans and me took doing .	I guess fooling Hans and me took doing .	1	Awareness	Coming_to_believe
+brown	3	Suddenly his voice became hard .	Suddenly his voice grew hard .	3	Becoming	Change_position_on_a_scale
+brown	3	That Jaguar could really move along .	That Jaguar could really barrel along .	4	Intentionally_act	Containers
+brown	3	The scant flesh became cool beneath her frantic hands .	The scant flesh grew cool beneath her frantic hands .	3	Becoming	Change_position_on_a_scale
+brown	3	The sun seemed hotter as it approached the midday .	The sun grew hotter as it approached the midday .	2	Give_impression	Change_position_on_a_scale
+brown	3	Their world became black .	Their world turned black .	2	Becoming	Undergo_change
+brown	3	They must be cold up there now .	They must be freezing up there now .	3	Temperature	Change_of_phase
+brown	3	You understand what I mean .	You see what I mean .	1	Awareness	Perception_experience
+brown	3	A car drove into the driveway outside the window .	A car pulled into the driveway outside the window .	2	Operate_vehicle	Manipulation
+brown	3	Booth had said his line .	Booth had delivered his line .	2	Statement	Delivery
+brown	3	But he had to believe the light .	But he had to follow the light .	4	Awareness	Cotheme
+brown	3	He resisted the panic of vertigo .	He fought the panic of vertigo .	1	Self_control	Quarreling
+brown	3	How best to end your peace ?	How best to destroy your peace ?	3	Process_end	Destroying
+brown	3	I grabbed him by the shoulders .	I took him by the shoulders .	1	Manipulation	Removing
+brown	3	On the way I told him the scoop .	On the way I gave him the scoop .	4	Statement	Giving
+brown	3	Pam knew she had no answers .	Pam found she had no answers .	1	Statement	Becoming_aware
+brown	3	The car drove up alongside him and stopped .	The car drew up alongside him and stopped .	2	Operate_vehicle	Cause_motion
+brown	3	The heat forced the guerrillas back .	The heat drove the guerrillas back .	2	Causation	Cause_motion
+brown	3	The monitors functioned twenty-four hours each day .	The monitors ran twenty-four hours each day .	2	Function	Self_motion
+brown	4	Then at last the darkness began to dissolve .	Then at last the darkness began to split .	7	Dispersal	Separating
+brown	4	as he walked through the courtyard he regretted it .	as he crossed through the courtyard he regretted it .	2	Self_motion	Path_shape
+brown	4	Dolores stood motionless in the doorway .	Dolores lives motionless in the doorway .	1	Being_located	Residence
+brown	4	Felix took us into his studio .	Felix laughed us into his studio .	1	Removing	Make_noise
+brown	4	His energy was gone .	His energy was broken .	3	Attempt	Cause_harm
+brown	4	It can kill you .	It can destroy you .	2	Killing	Destroying
+brown	4	It got worse instead of better .	It proved worse instead of better .	1	Arriving	Evidence
+brown	4	Madden settled back to read the will .	Madden settled back to visit the will .	4	Reading_activity	Arriving
+brown	3	They drank the small bottle of Steinhager .	They finished the small bottle of Steinhager .	1	Ingestion	Activity_finish
+brown	4	None of them reached our walls again .	None of them knew our walls again .	3	Arriving	Awareness
+brown	4	Now the hope was gone .	Now the hope was destroyed .	4	Attempt	Destroying
+brown	4	She stood frowning and chewing her lip .	She stood frowning and worried her lip .	4	Grinding	Emotion_active
+brown	4	Telephone poles lined the road .	Telephone poles painted the road .	2	Distributed_position	Communicate_categorization
+brown	4	The instinct of discipline has been lost .	The instinct of discipline has been murdered .	6	Losing_someone	Killing
+brown	4	They kept up a rigid pretense of speaking relations .	They laughed up a rigid pretense of speaking relations .	1	Storing	Make_noise
+brown	4	Her bright eyes were twinkling .	Her bright eyes were dancing .	4	Location_of_light	Self_motion
+dev	3	But going became the stars and moon	But going took the stars and moon	2	Becoming	Removing
+dev	3	And hands all Earth and Heaven in its embrace .	And clasps all Earth and Heaven in its embrace .	1	Giving	Manipulation
+dev	3	sign that Hell descend on , unstunned .	A sign that Hell reigns on , unstunned .	4	Motion_directional	Leadership
+dev	3	Then he a hundred hooks was made to walk .	Then he a hundred hooks was made to feel .	8	Self_motion	Perception_Experience
+dev	3	For as he proved his soul to her She dreamed	For as he bared his soul to her She dreamed	3	Evidence	Wearing
+dev	3	By pensive Sadness , not by Fiction , means --	By pensive Sadness , not by Fiction , led --	8	Causation	Leadership
+dev	3	Which once too ripe will never live ,	Which once too ripe will never rise ,	6	Residence	Change_position_on_a_scale
+dev	3	But it increased the morning 's glory	But it spread the morning 's glory	2	Cause_change_of_position_on_a_scale	Dispersal
+dev	3	And pulled the mining beetle from its roots ;	And drive the mining beetle from its roots ;	1	Manipulation	Self_motion
+dev	3	And follow still where fortune provides the way ;	And follow still where fortune leads the way ;	5	Supply	Leadership
+dev	3	And hours of evil chance will commence --	And hours of evil chance will fall --	6	Process_start	Change_position_on_a_scale
+dev	3	For wrathful retribution swiftly occurs .	For wrathful retribution swiftly comes .	4	Event	Arriving
+dev	3	Her hand alone inspired this glorious scene .	Her hand alone commands this glorious scene .	3	Subjective_influence	Leadership
+dev	3	No voice like thine to sound the song .	No voice like thine to breathe the song .	5	Cause_to_make_noise	Breathing
+dev	3	The Christian faith there inspired a heathen 's heart .	The Christian faith there touched a heathen 's heart .	4	Subjective_influence	Spatial_contact
+dev	3	And every courteous rite was used ,	And every courteous rite was paid ,	5	Using	Commerce_pay
+dev	3	That young men rarely chose monastic vows ;	That young men rarely made monastic vows ;	4	Choosing	Manufacturing
+dev	3	The life of such dead things remains bound	The life of such dead things lies bound	6	State_continue	Being_located
+dev	3	My dear , the time has occurred to say	My dear , the time has come to say	6	Event	Arriving
+dev	3	The shapes appeared !	The shapes arise !	2	Arriving	Coming_to_be
+dev	3	The wish inspired his mighty mind ,	The wish possessed his mighty mind ,	2	Subjective_influence	Possession
+dev	3	Where charity in soft persuasion remains ,	Where charity in soft persuasion sat ,	5	State_continue	Being_located
+dev	3	Through half-lit halls which formed no end .	Through half-lit halls which reach no end .	4	Coming_to_be	Arriving
+dev	3	That blushing to her laughter created more grace ,	That blushing to her laughter gave more grace ,	5	Intentionally_create	Giving
+dev	3	A cherub helping up a soul from hell .	A cherub bringing up a soul from hell .	2	Assistance	Causation
+dev	3	The very thought still influenced my blood to boil --	The very thought still makes my blood to boil --	4	Objective_influence	Manufacturing
+dev	3	And the gray and darkening waters flowed above the	And the gray and darkening waters roll above the	6	Fluidic_motion	Cause_motion
+dev	3	And said that he wrote letters to the son	And said that he bore letters to the son	4	Statement	Experiencer_obj
+dev	3	Broken pledges , treaties prohibited ,	Broken pledges , treaties torn ,	4	Preventing_or_letting	Removing
+dev	3	When so proudly She accepted her brave crew ,	When so proudly She bore her brave crew ,	4	Receiving	Experiencer_obj
+dev	3	And I hear his bird heart began its story ,	And I hear his bird heart beat its story ,	6	Process_start	Cause_harm
+dev	3	The night was getting late	The night was growing late	3	Arriving	Change_position_on_a_scale
+dev	3	With weary tread we began our way .	With weary tread we wound our way .	4	Process_start	Manipulate_into_shape
+dev	3	I could but hear these few fleeting words :	I could but gather these few fleeting words :	4	Perception_experience	Coming_to_believe
+dev	3	Touched with the sanctifying thoughts which continued :	Touched with the sanctifying thoughts which wait	6	Activity_ongoing	Waiting
+dev	3	By means of a secret charm , to choose :	By means of a secret charm , to draw	8	Choosing	Cause_motion
+dev	3	Where tortured silences exist .	Where tortured silences creep .	3	Existence	Self_motion
+dev	4	His orbit all unequally , and adds ,	His orbit all unequally , and folded ,	6	Cause_change_of_position_on_a_scale	Go_into_shape
+dev	4	Shall find me still contented here ;	Shall call me still contented here ;	1	Arriving	Request
+dev	4	The same eye gazed on us with tenderness ,	The same eye looked on us with tenderness ,	3	Perception_active	Scrutiny
+dev	4	Ere nature again her balmy dews send ,	Ere nature again her balmy dews appears ,	6	Causation	Arriving
+dev	4	The lights were out , the pages gone ,	The lights were out , the pages parted ,	7	Attempt	Taking_sides
+dev	4	A dim aurora rises in my east ,	dim aurora lives in my east ,	3	Change_position_on_a_scale	Residence
+dev	4	Dreams of old acquaintance now pass through me ,	Dreams of old acquaintance now skipped through me ,	5	Process_end	Self_motion
+dev	4	As if some guardian star my course arranged ,	As if some guardian star my course painted ,	7	Placing	Communicate_categorization
+dev	4	Tears could I shed even like unto a child ,	Tears could I talk even like unto a child ,	3	Undressing	Chatting
+dev	4	To keep our love aglow ,	To paint our love aglow ,	1	Storing	Communicate_categorization
+dev	4	Fate would not let me follow where he led .	Fate would not let me play where he led .	5	Cotheme	Cause_to_make_noise
+dev	4	Of life eternal , time has made thee one	Of life eternal , time has elected thee one	6	Manufacturing	Choosing
+dev	4	Wove silk and gold to form a girth	Wove silk and gold to earn a girth	5	Coming_to_be	Earnings_and_losses
+moh/hand written	3	A flame ablaze that appear amid the skies	A flame ablaze that skipped amid the skies	4	Arriving	Self_motion
+moh/hand written	3	Adrenaline flows through him powerfully	Adrenaline swims through him powerfully	1	Fluidic_motion	Self_motion
+moh/hand written	3	Death is coming at the door	Death is flowing at the door	2	Arriving	Fluidic_motion
+moh/hand written	3	he communicated his disapproval with a dismissive hand gesture	he signed his disapproval with a dismissive hand gesture	1	Discussion	Sign_agreement
+moh/hand written	3	he provided her with presents	he showered her with presents	1	Supply	Placing
+moh/hand written	3	he shot away at the men	he blazed away at the men	1	Shoot_projectiles	Fire_burning
+moh/hand written	3	he urged her to finish her doctorate	he pushed her to finish her doctorate	1	Desiring	Attempt
+moh/hand written	3	His playing established him as a Romantic	His playing erected him as a Romantic	2	Intentionally_create	Building
+moh/hand written	3	I assume you have not done your homework	I bet you have not done your homework	1	Adopt_selection	Wagering
+moh/hand written	3	i cant believe this story	i cant buy this story	2	Awareness	Commerce_buy
+moh/hand written	3	i couldnt escape the car that was following me	i couldnt shake the car that was following me	2	Avoiding	Moving_in_place
+moh/hand written	3	I struggled with this decision for years	I battled with this decision for years	1	Hostile_encounter	Hostile_encounter
+moh/hand written	3	In addition , the storm devastated the town	In addition , the storm bombed the town	5	Destroying	Weapon
+moh/hand written	3	My alarm buzzed at me this morning	My alarm roared at me this morning	2	Lively_place	Make_noise
+moh/hand written	3	my brain is confused after the bottle of champagne	my brain is swimming after the bottle of champagne	3	Experiencer_obj	Self_motion
+moh/hand written	3	People were running out of the theater	People were streaming out of the theater	2	Self_motion	Fluidic_motion
+moh/hand written	3	She fell into the luxury of life	She slipped into the luxury of life	1	Motion_directional	Self_motion
+moh/hand written	3	she forgot her trouble in alcohol	she drowned her trouble in alcohol	1	Remembering_experience	Killing
+moh/hand written	3	she intended to go far in the world of business	she designed to go far in the world of business	1	Purpose	Coming_up_with
+moh/hand written	3	she is approaching fifty	she is pushing fifty	2	Arriving	Attempt
+moh/hand written	3	Slowly his sense and strength increased	Slowly his sense and strength grew	5	Cause_change_of_position_on_a_scale	Change_position_on_a_scale
+moh/hand written	3	some nice results appeared from the study	some nice results emerged from the study	3	Arriving	Coming_to_be
+moh/hand written	3	stock prices are becoming higher	stock prices are drifting higher	3	Becoming	Motion
+moh/hand written	3	the bad news weakened her hopes	the bad news shook her hopes	3	Cause_change_of_strength	Moving_in_place
+moh/hand written	3	The bridge stands over the river	The bridge towers over the river	2	Being_located	Buildings
+moh/hand written	3	The children danced with joy	The children twinkled with joy	2	Self_motion	Location_of_light
+moh/hand written	3	The dollar has been reduced by inflation	The dollar has been dried by inflation	4	Cause_change_of_position_on_a_scale	Becoming_dry
+moh/hand written	3	The dollar has been reduced by inflation	The dollar has been dragged by inflation	4	Cause_change_of_position_on_a_scale	Cause_motion
+moh/hand written	3	The flowers moved in the gentle breeze	The flowers danced in the gentle breeze	2	Intentionally_act	Self_motion
+moh/hand written	3	the guy hanging around the school is selling drugs	the guy hanging around the school is pushing drugs	7	Commerce_sell	Attempt
+moh/hand written	3	The huge waves hit the small boat and it sank shortly thereafter	The huge waves attacked the small boat and it sank shortly thereafter	3	Arriving	Attack
+moh/hand written	3	the meat was covered in a fatty gravy	the meat was swimming in a fatty gravy	3	Distributed_position	Self_motion
+moh/hand written	3	The new measures affected the economy	The new measures transformed the economy	3	Objective_influence	Cause_change
+moh/hand written	3	the new moon appeared through the tree tops	the new moon peeped through the tree tops	3	Arriving	Cause_to_make_noise
+moh/hand written	3	The party ended as soon as she left	The party died as soon as she left	2	Cause_to_end	Death
+moh/hand written	3	the police arrested the drug ring after they were tipped off	the police smashed the drug ring after they were tipped off	2	Cause_to_end	Cause_harm
+moh/hand written	3	the press was silenced	the press was gagged	3	Silencing	Placing
+moh/hand written	3	The Senator criticized the administration in his speech on Friday	The Senator attacked the administration in his speech on Friday	2	Judgment_communication	Attack
+moh/hand written	3	the society was corrupted by racism	the society was infected by racism	3	Morality_evaluation	Infecting
+moh/hand written	3	the spaceship departed out into space	the spaceship blazed out into space	2	Departing	Fire_burning
+moh/hand written	3	These events could affect the balance of power	These events could shape the balance of power	3	Objective_influence	Shapes
+moh/hand written	3	they gave various nicknames to each other	they fastened various nicknames to each other	1	Giving	Becoming_attached
+moh/hand written	3	they were together in embrace	they were locked in embrace	2	Accompaniment	Inhibit_movement
+moh/hand written	3	This fact went against the standard theories	This fact warred against the standard theories	2	Attempt	Hostile_encounter
+moh/hand written	3	this piano requires the attention of a competent tuner	this piano wants the attention of a competent tuner	2	Needing	Desiring
+moh/hand written	3	Time passes when you 're having fun	Time flies when you 're having fun	1	Process_end	Self_motion
+moh/hand written	3	Trembling for ire , and looking pale for rage	Trembling for ire , and painted pale for rage	4	Scrutiny	Communicate_categorization
+moh/hand written	3	Water poured all over the floor	Water cascaded all over the floor	1	Mass_motion	System
+moh/hand written	3	We put money into the education of our children	We streamed money into the education of our children	1	Placing	Fluidic_motion
+moh/hand written	3	you should never corrupt someone 's mind	you should never poison someone 's mind	3	Morality_evaluation	Cause_harm
