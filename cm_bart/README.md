@@ -19,7 +19,7 @@ Put the files in the `checkpoints/` folder, and then use the the `Generate.py` s
 python Generate.py [-m model_checkpoint] input_path
 ```
 
-The input_path should contain one sentence per line, properly formatted as in the paper. See `./data/test/knownmappings.input` for an example.
+The input_path should contain one sentence per line, properly formatted as in the paper. See `./data/test/knownmapping.input` for an example.
 
 
 ## Fine-tuning the model
