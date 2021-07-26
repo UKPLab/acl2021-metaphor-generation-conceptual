@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: fairseq
+Version: 0.9.0
+Summary: Facebook AI Research Sequence-to-Sequence Toolkit
+Home-page: https://github.com/pytorch/fairseq
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
