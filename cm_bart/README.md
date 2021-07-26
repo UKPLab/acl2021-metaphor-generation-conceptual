@@ -3,7 +3,7 @@
 ## Installation
 This project requires an augmented version of Fairseq, included in the `./fairseq/` directory.
 
-To install, navigate to the `./fairseq/` directory, use the following:
+To install, navigate to the `./fairseq/` directory, and install using:
 
 `pip install --editable ./`
 
@@ -11,9 +11,9 @@ Note that the using the original fairseq intallation will not work: we encourage
 
 ## Generating metaphors
 To generate metaphors, we require the model checkpoint. This can be downloaded (for now) from the following Google Drive link:
- 
- 
- use the `Generate.py` script.
+https://drive.google.com/drive/folders/138SCh3xANO4hgs0IAId5M5lMgLrKUTPk?usp=sharing
+
+Put the files in the `checkpoints/` folder, and then use the the `Generate.py` script.
 
 ```
 python Generate.py [-m model_checkpoint] input_path
