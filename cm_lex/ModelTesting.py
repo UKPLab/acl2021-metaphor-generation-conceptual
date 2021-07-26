@@ -46,7 +46,7 @@ def test_model(texts):
 
     
 def main(argv=None):
-    texts = [t.split("\t") for t in open("../tests/final.tsv").readlines()]
+    texts = [t.split("\t") for t in open("tests/final.tsv").readlines()]
     test_model(texts)
 
 
