@@ -1,4 +1,4 @@
-#Conceptual Metaphor Generation
+# Conceptual Metaphor Generation
 
 This repository is for the paper <a href="https://arxiv.org/pdf/2106.01228.pdf">Metaphor Generation with Conceptual Mappings</a>.
 
